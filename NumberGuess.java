@@ -66,9 +66,7 @@ public class NumberGuess {
 		else {
 			System.out.println("  Oops!! Your input is incorrect try a positive number.");
 		}
-		
-		
-		//System.out.print(num);	
+			
 	}
 
 }
